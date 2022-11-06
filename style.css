@@ -1,0 +1,9 @@
+.container{
+    background-color: blue;
+}
+.container h2{
+    display:inline-flex ;
+}
+.buttons{
+    background-color: aqua;
+}
